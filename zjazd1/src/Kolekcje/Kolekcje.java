@@ -1,3 +1,5 @@
+package Kolekcje;
+
 import java.util.*;
 
 public class Kolekcje {

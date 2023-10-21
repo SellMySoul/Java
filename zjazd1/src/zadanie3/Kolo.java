@@ -1,4 +1,4 @@
-package zadania.zadanie3;
+package zadanie3;
 
 public class Kolo implements Figura{
     double r;

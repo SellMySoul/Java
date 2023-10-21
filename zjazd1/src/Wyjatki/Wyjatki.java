@@ -1,4 +1,4 @@
-package Additional;
+package Wyjatki;
 
 public class Wyjatki {
     public static void main(String[] args) {

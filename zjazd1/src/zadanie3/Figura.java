@@ -1,4 +1,4 @@
-package zadania.zadanie3;
+package zadanie3;
 
 public interface Figura {
     double obliczPole();

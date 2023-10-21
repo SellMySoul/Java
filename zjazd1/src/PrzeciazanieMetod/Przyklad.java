@@ -1,3 +1,5 @@
+package PrzeciazanieMetod;
+
 public class Przyklad {
     // Przeciążona metoda przyjmująca dwa argumenty typu int
     public int dodaj(int a, int b) {

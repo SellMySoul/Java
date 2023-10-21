@@ -1,3 +1,5 @@
+package Pojazd;
+
 public interface Pojazd {
     void przyspiesz(int predkosc);
     void zwolnij(int predkosc);

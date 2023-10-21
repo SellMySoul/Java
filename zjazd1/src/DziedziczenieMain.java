@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class DziedziczenieINadpisywanieMetod {
+public class DziedziczenieMain {
     public static void main(String[] args) {
         Pies pies = new Pies("Reksio");
         Kot kot = new Kot("Mruczek");
