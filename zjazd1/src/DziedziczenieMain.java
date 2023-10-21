@@ -17,7 +17,7 @@ public class DziedziczenieMain {
         for (Zwierze zwierze : zwierzeta) {
             zwierze.dajGlos();
             zwierze.biegnij();
-            zwierze.setImie("llll");
+            zwierze.setImie("Arek");
             zwierzeta.add(new Kot("Filemon"));
         }
         System.out.println(zwierzeta);
@@ -85,4 +85,6 @@ class Kot extends Zwierze {
     void dajGlos() {
         System.out.println(imie + " miauczy");
     }
+
+
 }
