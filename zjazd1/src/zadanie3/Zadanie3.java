@@ -3,7 +3,7 @@ package zadanie3;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Zadanie3Main {
+public class Zadanie3 {
     public static void main(String[] args) {
         List<Figura> lista = new ArrayList<>();
         Kwadrat k1 = new Kwadrat(2);
