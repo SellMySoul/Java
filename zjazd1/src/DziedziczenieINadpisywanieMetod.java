@@ -7,6 +7,7 @@ public class DziedziczenieINadpisywanieMetod {
         Kot kot = new Kot("Mruczek");
         pies.dajGlos();
         kot.dajGlos();
+
         List<Zwierze> zwierzeta = new ArrayList<>();
         zwierzeta.add(new Kot("Kicia"));
         zwierzeta.add(new Pies("Burek"));
